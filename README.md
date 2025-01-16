@@ -190,6 +190,8 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
   </a>
 </p>
 
+.
+
 # Technologies used 🛠️
 
 - [React](https://reactjs.org/)
